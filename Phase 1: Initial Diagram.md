@@ -16,5 +16,15 @@ diagram. </p>
 </ul>
 <p>Be sure the diagram is clear and organized—it will serve as the foundation for your build.</p>
 
-<h1> Phase 2: ADDS Diagram</h1>
+<h1> Task 2: ADDS Diagram</h1>
+<p>Once your basic network diagram is complete, expand it to include your Active Directory Domain Services (AD DS) structure.</p>
+
+<p>Include the following elements:</p>
+<ul type="square">
+<li>All Organizational Units (OUs)</li>
+<li>A group inside each OU</li>
+<li>Users properly assigned to their corresponding groups and OUs</li>
+<li>A header section displaying the Domain Name and Top Level Domain Name (TLDN)</li>
+</ul>
+<p>This combined diagram should give a complete overview of your network and domain structure.</p>
 
