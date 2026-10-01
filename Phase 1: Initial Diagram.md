@@ -3,6 +3,7 @@
 diagram. </p>
 
 🎯 <b>Goal:</b> Create clear, organized Visio diagrams that document your planned network layout and user structure. These diagrams will serve as the foundation for building and configuring your virtual environment.
+<h2>For this project, use either your own theme, or one of the examples ones that can be found here:</h2>
 
 <h1> Task 1: Network Diagram</h1>
 <p>Use Visio to create a diagram representing your planned network setup. Your diagram should include:</p>
