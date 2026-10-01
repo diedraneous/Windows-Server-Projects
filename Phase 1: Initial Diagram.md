@@ -5,12 +5,13 @@ diagram. </p>
 🎯 Goal: Create clear, organized Visio diagrams that document your planned network layout and user structure. These diagrams will serve as the foundation for building and configuring your virtual environment.
 
 <h1> Task 1: Network Diagram</h1>
-Use Visio to create a diagram representing your planned network setup. Your diagram should include:
-
-Three servers and two client machines
-Three pieces of network equipment
-A clearly labeled DHCP scope
-Labels for all equipment
-Visual connections between devices
-Distinct containers to separate the client and server machines
-Be sure the diagram is clear and organized—it will serve as the foundation for your build.
+<p>Use Visio to create a diagram representing your planned network setup. Your diagram should include:</p>
+<ul type="square">
+<li>Three servers and two client machines</li>
+<li>Three pieces of network equipment</li>
+<li>A clearly labeled DHCP scope</li>
+<li>Labels for all equipment</li>
+<li>Visual connections between devices</li>
+<li>Distinct containers to separate the client and server machines</li>
+</ul>
+<p>Be sure the diagram is clear and organized—it will serve as the foundation for your build.</p>
