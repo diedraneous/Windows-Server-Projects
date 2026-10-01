@@ -15,3 +15,6 @@ diagram. </p>
 <li>Distinct containers to separate the client and server machines</li>
 </ul>
 <p>Be sure the diagram is clear and organized—it will serve as the foundation for your build.</p>
+<hr />
+<h1> Phase 2: ADDS Diagram</h1>
+
