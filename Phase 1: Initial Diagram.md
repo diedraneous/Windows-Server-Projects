@@ -17,6 +17,9 @@ diagram. </p>
 <li>Distinct containers to separate the client and server machines</li>
 </ul>
 <p>Be sure the diagram is clear and organized—it will serve as the foundation for your build.</p>
+<p> Example of the Network Diagram:</p>
+<img width="827" height="639" alt="image" src="https://github.com/user-attachments/assets/cb38c9fa-a63d-42cd-bc48-29a6b3cc8c99" />
+
 
 <h1> Task 2: ADDS Diagram</h1>
 <p>Once your basic network diagram is complete, expand it to include your Active Directory Domain Services (AD DS) structure.</p>
