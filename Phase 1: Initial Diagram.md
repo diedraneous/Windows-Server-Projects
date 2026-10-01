@@ -33,3 +33,6 @@ diagram. </p>
 </ul>
 <p>This combined diagram should give a complete overview of your network and domain structure.</p>
 
+<h1> Submission Guidelines</h1>
+<p> If this project is for a class, submit the project to the required dropbox using image format (.png, .gif, .jpg, .jpeg).</p>
+
